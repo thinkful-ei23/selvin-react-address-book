@@ -40,4 +40,4 @@ export default class AddressBook extends React.Component  {
 
 Contact.defaultProps = {
   address: ''
-};
+}; 
